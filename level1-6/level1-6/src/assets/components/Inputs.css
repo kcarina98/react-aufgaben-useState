@@ -1,0 +1,19 @@
+section {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  background-color: lightcoral;
+  color: white;
+  padding: 50px;
+}
+
+section input {
+  margin: 0 20px 0 0;
+  padding: 10px;
+  border: none;
+  border-radius: 18px;
+}
+
+section input::placeholder {
+  color: crimson;
+  text-align: center;
+}
